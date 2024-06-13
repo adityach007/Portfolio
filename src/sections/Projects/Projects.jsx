@@ -2,7 +2,6 @@ import styles from './ProjectsStyles.module.css';
 import icon1 from '../../assets/icon1.png';
 import finetune from '../../assets/finetune.jpg';
 import sentiment from '../../assets/sentiment (1).jpg';
-import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
